@@ -16,5 +16,4 @@ The app provides the following functionalities -
 
 6. List of trusted sources from where real-time data is synchronized
 
-Please feel free to share any feedback.
 
