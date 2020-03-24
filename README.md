@@ -19,9 +19,9 @@ The app provides the following functionalities -
 
 ## Images
 <table>  
-  <tr><img src="img-1.jpeg" width="250"/>](image-1.png)</tr>
-  <tr><img src="img-2.jpeg" width="250"/>](image-1.png)>/tr>
-  <tr><img src="img-3.jpeg" width="250"/>](image-1.png)</tr>
-  <tr><img src="img-4.jpeg" width="250"/>](image-1.png)</tr>
+  <tr><img src="img-1.jpeg" width="250"/></tr>
+  <tr><img src="img-2.jpeg" width="250"/></tr>
+  <tr><img src="img-3.jpeg" width="250"/></tr>
+  <tr><img src="img-4.jpeg" width="250"/></tr>
 </table>  
   
