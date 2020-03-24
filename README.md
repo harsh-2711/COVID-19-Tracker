@@ -17,3 +17,13 @@ The app provides the following functionalities -
 6. List of trusted sources from where real-time data is synchronized
 
 
+## Images
+<table> 
+  <tr>
+    <td><img src="img-1.jpeg" width="250"/></td>
+    <td><img src="img-2.jpeg" width="250"/></td>
+    <td><img src="img-3.jpeg" width="250"/></td>
+    <td><img src="img-4.jpeg" width="250"/></td>
+  </tr>
+</table>  
+  
