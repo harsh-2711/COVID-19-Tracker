@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--<item-->
+        <!--android:id="@+id/navigation_home"-->
+        <!--android:icon="@drawable/ic_home"-->
+        <!--android:title="Home"-->
+        <!--android:fontFamily="@font/oxygen"/>-->
+    <!--<item-->
+        <!--android:id="@+id/navigation_advisory"-->
+        <!--android:icon="@drawable/ic_health_advisory"-->
+        <!--android:title="Health Advisory"-->
+        <!--android:fontFamily="@font/oxygen"/>-->
+    <item
+        android:id="@+id/navigation_helpline"
+        android:icon="@drawable/ic_helpline"
+        android:title="Helpline"
+        android:fontFamily="@font/oxygen"/>
+    <item
+        android:id="@+id/navigation_sources"
+        android:icon="@drawable/ic_sources"
+        android:title="Sources"
+        android:fontFamily="@font/oxygen"/>
+<!--    <item-->
+<!--        android:id="@+id/navigation_notif_settings"-->
+<!--        android:icon="@drawable/ic_notifications"-->
+<!--        android:title="Notifications"-->
+<!--        android:fontFamily="@font/oxygen"/>-->
+    <item
+        android:id="@+id/navigation_about"
+        android:icon="@drawable/ic_notifications"
+        android:title="About"
+        android:fontFamily="@font/oxygen"/>
+</menu>
